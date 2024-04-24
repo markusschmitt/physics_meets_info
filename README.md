@@ -6,4 +6,4 @@ This is the code repository for the lecture "Physics meets information" held at 
 
 
 
-- [Microscopic origin of the arrow of time](https://colab.research.google.com/github/markusschmitt/physics_meets_info/arrow_of_time.ipynb)
+- [Microscopic origin of the arrow of time](https://colab.research.google.com/github/markusschmitt/physics_meets_info/blob/main/arrow_of_time.ipynb)
