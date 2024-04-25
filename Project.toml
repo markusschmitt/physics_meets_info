@@ -1,6 +1,6 @@
 name = "physics_meets_info"
 uuid = "0b4bfc71-e897-4abd-a493-cdb6874e1367"
-authors = ["Markus <markus.schmitt@uni-koeln.de>"]
+authors = ["Markus <markus.schmitt@ur.de>"]
 version = "0.1.0"
 
 [deps]
